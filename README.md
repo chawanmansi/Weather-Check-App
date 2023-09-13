@@ -11,7 +11,7 @@ Follow these steps to set up and run the Weather Check App:
 **Clone the Repository:**
 shell
 Copy code
-**git clone https://github.com/yourusername/weather-check-app.git
+**git clone https://github.com/chawanmansi/weather-check-app.git
 cd weather-check-app**
 
 **API Key:**
